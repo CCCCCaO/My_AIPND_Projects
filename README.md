@@ -7,8 +7,8 @@
 仓库目录：
 
 > * P0_MyWechatFriends
-> * P1_Robot_Controller (未完）
-> * NumPy迷你项目：Mean Normalization and Data Separation-zh
+> * P1_Robot_Controller
+> * NumPy_miniProjects
 
 作者 [@CCCCCaO][1]
 2018 年 08月 23日
